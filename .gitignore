@@ -2,3 +2,24 @@
 .venv
 *.db
 .DS_Store
+
+.venv/
+
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+
+# IDE files
+.vscode/
+.idea/
+
+# Logs
+logs/
+*.log
+
+# datasets
+*.csv
+*.tsv
+*.jsonl
